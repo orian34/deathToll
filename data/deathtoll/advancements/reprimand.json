@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "              Reprimand              ",
+            "color": "white"
+        },
+        "description": {
+            "text": "The easiest one, if you don't want to play too seriously. \n\nRequired spawner amount per death: 6. \n\nOnly removes the hotbar and equipped items. \n\nGives Resistance when in debt.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:cornflower"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "deathtoll:interest"
+}

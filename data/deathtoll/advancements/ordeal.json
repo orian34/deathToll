@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "                Ordeal                ",
+            "color": "white"
+        },
+        "description": {
+            "text": "The hardest one, if you want it hard and painful on your mistakes. \n\nRequired spawner amount per death: 18. \n\nDoes not give back items. \n\nIf you want even harder, just play Hardcore idk.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:stick"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "deathtoll:challenge"
+}

@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Each time you die, you will have a price to pay. \n\nIf you die with a toll unpaid it will wipe your inventory. \n\nBreaking spawners will reduce by 1 the debt remaining. \n\nYou can pay in advance when the toll is not active, up to 3 times the amount required.",
+            "text": "Each time you die, you will have a price to pay. \n\nIf you die with a toll unpaid it will wipe your inventory. \n\nBreaking spawners will reduce by 1 the debt remaining and give you back one item lost. \n\nYou can pay in advance when the toll is not active, up to 3 times the amount required.",
             "color": "aqua"
         },
         "icon": {

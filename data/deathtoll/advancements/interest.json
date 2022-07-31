@@ -1,15 +1,15 @@
 {
     "display": {
         "title": {
-            "text": "                Death                ",
+            "text": "           Interest Rates           ",
             "color": "white"
         },
         "description": {
-            "text": "By default, the toll for death is 12 spawners. \n\nThe debt is accurately represented by applying bad luck levels to the affected player and on the player list. \n\nThe player is notified when entering into debt or repaying it.",
+            "text": "There are 3 interest rates(difficulties) for this datapack. \n\nThey can easily be swapped if higher rates are too difficult. \n\nItems will be saved even in Ordeal, so you can recover lost items by lowering the interest rate.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:writable_book"
+            "item": "minecraft:paper"
         },
         "frame": "goal",
         "show_toast": false,
