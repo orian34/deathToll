@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "                Death                ",
+            "color": "white"
+        },
+        "description": {
+            "text": "By default, the toll for death is 10 spawners. \n\nThe debt is accurately represented by applying bad luck levels to the affected player. \n\nThe player is notified when entering into debt or repaying it.",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:writable_book"
+        },
+        "frame": "goal",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "deathtoll:prime"
+}

@@ -1,0 +1,25 @@
+{
+    "display": {
+        "title": {
+            "text": "     Death Toll     ",
+            "color": "white"
+        },
+        "description": {
+            "text": "Welcome to Death Toll, a datapack that makes death a proper threat while reducing tedium. \n\nDeath and taxes...",
+            "color": "aqua"
+        },
+        "icon": {
+            "item": "minecraft:skeleton_skull"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": true,
+        "hidden": true,
+        "background": "minecraft:textures/block/bone_block_top.png"
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
