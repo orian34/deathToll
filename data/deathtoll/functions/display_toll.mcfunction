@@ -1,0 +1,2 @@
+execute as @a[scores={obols=0..}] at @s run title @s actionbar [{"text":"Obols ❂ ","color":"dark_aqua","bold":true,"italic":false},{"score":{"name":"*","objective":"obols"},"color":"green","bold":true,"italic":false},{"text":" ✓","color":"green","bold":true,"italic":false}]
+execute as @a[scores={obols=..-1}] at @s run title @s actionbar [{"text":"Obols ❂ ","color":"dark_aqua","bold":true,"italic":false},{"score":{"name":"*","objective":"obols"},"color":"dark_red","bold":true,"italic":false},{"text":" ☠","color":"dark_red","bold":true,"italic":false}]

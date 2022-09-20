@@ -1,0 +1,21 @@
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{tag:{objective:1b}}]
+clear @s #deathtoll:all{objective:1b}
+
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:black_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:blue_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:brown_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:cyan_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:gray_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:green_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:light_blue_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:light_gray_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:lime_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:magenta_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:orange_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:pink_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:purple_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:red_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:white_shulker_box"}]
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:yellow_shulker_box"}]
+clear @s #deathtoll:shulker

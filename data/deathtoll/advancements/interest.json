@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "There are 3 interest rates(difficulties) for this datapack. \n\nThey can easily be swapped if higher rates are too difficult. \n\nItems will be saved even in Ordeal, so you can recover lost items by lowering the interest rate.",
+            "text": "There are 3 toll rates(difficulties) for this datapack. \n\nThey can easily be swapped if higher rates are too difficult. \n\nItems will be saved even in Ordeal, so you can recover lost items by lowering the toll rate.",
             "color": "aqua"
         },
         "icon": {
