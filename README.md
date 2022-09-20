@@ -17,3 +17,5 @@ Ordeal: 18 Obols. Does not give back items. Reduced max stock amount.
 
 ## For mapmakers
 To have your objectives be compatible, simply add the custom tag "objective:1b" to them.
+
+Also use the function deathtoll:give_book to allow easy config for players. I recommend using a book lectern in lobby and a spare at the monument.
