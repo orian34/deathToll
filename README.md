@@ -1,3 +1,6 @@
+Death Toll Datapack
+Copyright (C) 2023 orian34
+
 Version 1.4
 
 # Death Toll
