@@ -1,3 +1,5 @@
+Version 1.4
+
 # Death Toll
 Now death has consequences, but without the inventory management tedium!
 Will set keepInventory, but in exchange, each death will have a toll and if you die while in debt, it will wipe your inventory.
@@ -12,7 +14,7 @@ Reprimand: 6 Obols, only removes the hotbar and equipped items. Gives Resistance
 
 Challenge(default): 12 Obols.
 
-Ordeal: 18 Obols. Does not give back items. Reduced max stock amount.
+Ordeal: 18 Obols. Does not give back items. Reduced max stock amount. Also removes ender chest inventory.
 
 
 ## For mapmakers

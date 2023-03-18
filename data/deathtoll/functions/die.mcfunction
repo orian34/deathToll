@@ -32,3 +32,4 @@ item replace entity @s hotbar.7 with air
 item replace entity @s hotbar.8 with air
 
 execute unless score &debt dt_difficulty matches 1 run function deathtoll:diehard
+execute if score &debt dt_difficulty matches 2 run function deathtoll:dieharder
