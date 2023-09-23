@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "Each time you die, you will have a price to pay using Obols.\nWhen you don't have enough Obols, you will enter into debt until repaid.\n\nIf you die while in debt, it will wipe your inventory. \n\nBreaking spawners will increase by 1 your Obols.\nIt also gives you back one of your lost items. \n\nYou can store up to 3(2 in Ordeal) times the amount of Obols required.",
+            "text": "Each time you die, you will have a price to pay using Obols.\nWhen you don't have enough Obols, you will enter into debt until repaid.\n\nIf you die while in debt, it will wipe your inventory. (see options) \n\nBreaking spawners will increase by 1 your Obols.\nIt also gives you back one of your lost items. \n\nYou can store up to 3(2 in Ordeal) times the amount of Obols required.",
             "color": "aqua"
         },
         "icon": {

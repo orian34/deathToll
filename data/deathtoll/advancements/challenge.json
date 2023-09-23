@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "The default one, for a meaningful yet still reasonable death. \n\nRequired Obols per death: 12.",
+            "text": "The default one, for a meaningful yet still reasonable death.\n\nRequired Obols per death: 12.\n\nDoesn't remove the hotbar and equipped slots.",
             "color": "aqua"
         },
         "icon": {

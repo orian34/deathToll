@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "              Bankruptcy              ",
+            "color": "white"
+        },
+        "description": [{
+            "text": "If hard isn't hard enough. No mistakes allowed.\n\nBreaking spawners doesn't pay your toll or reimburse items.\nPermanent debt state.\n\nIf you want harsh difficulty that isn't too frustrating I recommend trying bankrupt Challenge.\n\n",
+            "color": "aqua"
+          },{
+            "text": "Death will reclaim its due.",
+            "color": "red",
+            "bold": true
+          }],
+        "icon": {
+            "item": "minecraft:bowl"
+        },
+        "frame": "task",
+        "show_toast": false,
+        "announce_to_chat": false,
+        "hidden": false
+    },
+    "criteria": {
+        "tick": {
+            "trigger": "minecraft:tick"
+        }
+    },
+    "parent": "deathtoll:taxes"
+}

@@ -1,2 +1,2 @@
-scoreboard players set &debt dt_difficulty 2
-tellraw @a "Death Toll difficulty set to Ordeal."
+scoreboard players set @s dt_difficulty 2
+tellraw @s "Death Toll difficulty set to Ordeal."

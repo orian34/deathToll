@@ -5,7 +5,7 @@
             "color": "white"
         },
         "description": {
-            "text": "The easiest one, if you don't want to play too seriously. \n\nRequired Obols per death: 6. \n\nOnly removes the hotbar and equipped items.\nDoesn't remove shulker boxes and objectives when out of debt.\n\nGives Resistance when in debt.",
+            "text": "The easiest one, if you don't want to play too seriously.\n\nRequired Obols per death: 6.\n\nOnly removes shulker boxes and objectives.\n\nGives Resistance when in debt.",
             "color": "aqua"
         },
         "icon": {
