@@ -22,3 +22,5 @@ execute if score @s dt_difficulty matches 1 as @s[scores={obols=..-1}] run effec
 execute unless score @s obols matches -214748.. run function deathtoll:init_player
 
 execute if score &debt dt_actionbar matches 1 run function deathtoll:display_toll
+
+execute store result score @s toll_counter run data get storage deathtoll:mortgage Items

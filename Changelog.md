@@ -1,3 +1,5 @@
++ Added a counter for items still tolled away.
+
 v2.0:
 + Added a way to automatically give the settings book after the first wipe of a player.
 
