@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "           Interest Rates           ",
+            "translate": "deathtoll.adv.title.interest",
+            "fallback": "           Interest Rates           ",
             "color": "white"
         },
         "description": {
-            "text": "There are 3 toll rates(difficulties) for this datapack. \n\nThey can easily be swapped if higher rates are too difficult. \n\nItems will be saved even in Bankruptcy mode, so you can recover lost items by changing the mode.",
+            "translate": "deathtoll.adv.desc.interest",
+            "fallback": "There are 3 toll rates(difficulties) for this datapack. \n\nThey can easily be swapped if higher rates are too difficult. \n\nItems will be saved even in Bankruptcy mode, so you can recover lost items by changing the mode.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:paper"
+            "id": "minecraft:paper"
         },
         "frame": "goal",
         "show_toast": false,

@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "                Death                ",
+            "translate": "deathtoll.adv.title.death",
+            "fallback": "                Death                ",
             "color": "white"
         },
         "description": {
-            "text": "By default, the toll for death is 12 Obols. \n\nThe debt is accurately represented by applying bad luck levels to the affected player and on the chosen display(player list by default).\n\nDespite having keep inventory, objective items and shulker boxes won't be saved.\n\nThe player is notified when entering into debt or repaying it.",
+            "translate": "deathtoll.adv.desc.death",
+            "fallback": "By default, the toll for death is 12 Obols. \n\nThe debt is accurately represented by applying bad luck levels to the affected player and on the chosen display(player list by default).\n\nDespite having keep inventory, objective items and shulker boxes won't be saved.\n\nThe player is notified when entering into debt or repaying it.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:writable_book"
+            "id": "minecraft:writable_book"
         },
         "frame": "goal",
         "show_toast": false,

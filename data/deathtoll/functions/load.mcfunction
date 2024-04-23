@@ -7,7 +7,8 @@ scoreboard objectives add toll_counter dummy
 
 scoreboard objectives add obols dummy
 scoreboard objectives add dt_difficulty dummy
-scoreboard objectives add dt_hardcore dummy
+scoreboard objectives add dt_hardcore_mortgage dummy
+scoreboard objectives add dt_hardcore_bankruptcy dummy
 scoreboard objectives add dt_wipe dummy
 scoreboard objectives add dt_actionbar dummy
 

@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "                 Toll                 ",
+            "translate": "deathtoll.adv.title.taxes",
+            "fallback": "                 Toll                 ",
             "color": "white"
         },
         "description": {
-            "text": "Each time you die, you will have a price to pay using Obols.\nWhen you don't have enough Obols, you will enter into debt until repaid.\n\nIf you die while in debt, it will wipe your inventory. (see options) \n\nBreaking spawners will increase by 1 your Obols.\nIt also gives you back one of your lost items. \n\nYou can store up to 3(2 in Ordeal) times the amount of Obols required.",
+            "translate": "deathtoll.adv.desc.taxes",
+            "fallback": "Each time you die, you will have a price to pay using Obols.\nWhen you don't have enough Obols, you will enter into debt until repaid.\n\nIf you die while in debt, it will wipe your inventory. (see options) \n\nBreaking spawners will increase by 1 your Obols.\nIt also gives you back one of your lost items. \n\nYou can store up to 3(2 in Ordeal) times the amount of Obols required.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:copper_ingot"
+            "id": "minecraft:copper_ingot"
         },
         "frame": "goal",
         "show_toast": false,

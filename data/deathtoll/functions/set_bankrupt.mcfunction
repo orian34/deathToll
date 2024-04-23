@@ -1,3 +1,2 @@
-scoreboard players set @s dt_hardcore 1
-function deathtoll:toll_reset
-tellraw @s "Death Toll mode set to Bankrupt."
+scoreboard players set @s dt_hardcore_bankruptcy 1
+tellraw @s {"translate":"deathtoll.setting.bankrupt","fallback":"Death Toll mode set to Bankrupt."}

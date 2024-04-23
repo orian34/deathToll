@@ -1,7 +1,8 @@
 Death Toll Datapack
-Copyright (C) 2023 orian34
+Copyright (C) 2024 orian34
 
-Version 2.0
+Version 2.1
+For Minecraft 1.20.5+
 
 # Death Toll
 Now death has consequences, but without the inventory management tedium!
@@ -20,11 +21,15 @@ Challenge(default): 12 Obols. Doesn't remove the hotbar and equipped slots.
 Ordeal: 18 Obols. Reduced max obol stock amount to 2 times. Also removes ender chest inventory.
 
 
-And a hardcore difficulty option:
+And hardcore difficulty options:
 
-Bankruptcy: If hard isn't hard enough. No mistakes allowed. Breaking spawners doesn't pay your toll or reimburse items. Permanent debt state.
+Bankruptcy: If hard isn't hard enough. No take-backs. Breaking spawners doesn't reimburse items. Items are gone forever.
+
+Mortgage: If hard isn't hard enough. No mistakes allowed. Breaking spawners doesn't pay your toll. Permanent debt state.
 
 ## For mapmakers
 To have your objectives be compatible, simply add the custom tag "objective:1b" to them.
+
+A score "toll_counter" counts the amount of items left to reimburse, for easy hooking.
 
 Also use the function deathtoll:give_book to allow easy config for players. I recommend using a book lectern in lobby and a spare at the monument(one will be given when a player wipes for the first time).

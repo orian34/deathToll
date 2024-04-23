@@ -30,7 +30,7 @@
                                     "source": "block_entity"
                                 },
                                 {
-                                    "function": "minecraft:copy_nbt",
+                                    "function": "minecraft:copy_components",
                                     "source": "block_entity",
                                     "ops": [
                                         {
@@ -47,16 +47,6 @@
                                             "source": "LootTableSeed",
                                             "target": "BlockEntityTag.LootTableSeed",
                                             "op": "replace"
-                                        }
-                                    ]
-                                },
-                                {
-                                    "function": "minecraft:set_contents",
-                                    "type": "minecraft:shulker_box",
-                                    "entries": [
-                                        {
-                                            "type": "minecraft:dynamic",
-                                            "name": "minecraft:contents"
                                         }
                                     ]
                                 }

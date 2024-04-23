@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "              Challenge              ",
+            "translate": "deathtoll.adv.title.challenge",
+            "fallback": "              Challenge              ",
             "color": "white"
         },
         "description": {
-            "text": "The default one, for a meaningful yet still reasonable death.\n\nRequired Obols per death: 12.\n\nDoesn't remove the hotbar and equipped slots.",
+            "translate": "deathtoll.adv.desc.challenge",
+            "fallback": "The default one, for a meaningful yet still reasonable death.\n\nRequired Obols per death: 12.\n\nDoesn't remove the hotbar and equipped slots.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:iron_sword"
+            "id": "minecraft:iron_sword"
         },
         "frame": "task",
         "show_toast": false,

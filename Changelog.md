@@ -1,4 +1,11 @@
+
+v2.1:
++ Added Mortgage mode.
 + Added a counter for items still tolled away.
++ Added translation support.
++ Updated datapack to 1.20.5
+
+- Split Bankruptcy mode in two.
 
 v2.0:
 + Added a way to automatically give the settings book after the first wipe of a player.

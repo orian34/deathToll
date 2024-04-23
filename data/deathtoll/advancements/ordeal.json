@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "                Ordeal                ",
+            "translate": "deathtoll.adv.title.ordeal",
+            "fallback": "                 Ordeal                 ",
             "color": "white"
         },
         "description": {
-            "text": "The hardest one, if you want it hard and painful on your mistakes.\n\nRequired Obols per death: 18.\nCan only store twice the amount.\n\nYou also lose your ender chest inventory.\n\nIf you want even harder, use the Bankruptcy mode.",
+            "translate": "deathtoll.adv.desc.ordeal",
+            "fallback": "The hardest one, if you want it hard and painful on your mistakes.\n\nRequired Obols per death: 18.\nCan only store twice the amount.\n\nYou also lose your ender chest inventory.\n\nIf you want even harder, use the hardcore options.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:stick"
+            "id": "minecraft:stick"
         },
         "frame": "task",
         "show_toast": false,

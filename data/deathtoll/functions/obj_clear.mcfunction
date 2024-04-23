@@ -1,5 +1,5 @@
-data modify storage deathtoll:mortgage Items append from entity @s Inventory[{tag:{objective:1b}}]
-clear @s #deathtoll:all{objective:1b}
+data modify storage deathtoll:mortgage Items append from entity @s Inventory[{components:{"minecraft:custom_data":{objective:1b}}}]
+clear @s #deathtoll:all[minecraft:custom_data={objective:1b}]
 
 data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:shulker_box"}]
 data modify storage deathtoll:mortgage Items append from entity @s Inventory[{id:"minecraft:black_shulker_box"}]

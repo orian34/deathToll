@@ -1,15 +1,17 @@
 {
     "display": {
         "title": {
-            "text": "              Reprimand              ",
+            "translate": "deathtoll.adv.title.reprimand",
+            "fallback": "              Reprimand              ",
             "color": "white"
         },
         "description": {
-            "text": "The easiest one, if you don't want to play too seriously.\n\nRequired Obols per death: 6.\n\nOnly removes shulker boxes and objectives.\n\nGives Resistance when in debt.",
+            "translate": "deathtoll.adv.desc.reprimand",
+            "fallback": "The easiest one, if you don't want to play too seriously.\n\nRequired Obols per death: 6.\n\nOnly removes shulker boxes and objectives.\n\nGives Resistance when in debt.",
             "color": "aqua"
         },
         "icon": {
-            "item": "minecraft:cornflower"
+            "id": "minecraft:cornflower"
         },
         "frame": "task",
         "show_toast": false,
